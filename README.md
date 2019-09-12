@@ -9,9 +9,10 @@
       <p><b>地址：南京市江宁区将军路128号南京航空航天大学，计算机实验楼</b></p>
     </td>
     <td width="25%">
-      <img src="img/qzk.png" width="100%">      % 插入证件照代码
+      <img src="img/qzk.png" width="100%">
     </td>
   </tr>
+  <tr><a href="/index-en.html">英文版</a></tr>
 </table>
 ### 最新消息
 1.没什么新的消息。。。。。
